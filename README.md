@@ -1,2 +1,2 @@
-# AP-gIoT-RPPboard
-MicroPython programs for the AP graduate IoT Raspberry Pi Pico board
+# Examen Opdracht 1
+Programma 1: temperature reader
